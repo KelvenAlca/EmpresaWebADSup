@@ -1,0 +1,56 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para a navbar */
+.navbar {
+    background-color: #333;
+    color: white;
+}
+
+/* Estilos para a seção de banner */
+.banner {
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.banner h1 {
+    font-size: 36px;
+}
+
+/* Estilos para as seções */
+.section {
+    background-color: #f5f5f5;
+    padding: 30px 0;
+}
+
+.section h2 {
+    text-align: center;
+}
+
+/* Estilos para os blocos de conteúdo */
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+/* Estilos para os serviços, trabalhos e produtos */
+.service, .work, .product {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Estilos para links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
